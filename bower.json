@@ -1,0 +1,20 @@
+{
+  "name": "ToDoApp",
+  "version": "0.0.0",
+  "authors": [
+    "biljanaManeva <biljana.maneva93@gmail.com>"
+  ],
+  "description": "to do application",
+  "main": "main.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
